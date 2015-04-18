@@ -16,5 +16,9 @@ tehtiin kokeellista koodia
 vähän parantelua
 lisättiin toiminnallisuutta
 
+
 uusi yritys
 jotain muuta
+
+parannuksia
+jotain uutta
