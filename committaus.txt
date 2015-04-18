@@ -16,3 +16,4 @@ tehtiin kokeellista koodia
 vähän parantelua
 lisättiin toiminnallisuutta
 
+uusi yritys
