@@ -5,3 +5,4 @@ vähän lisää loistavaa tavaraa
 tehtiin vielä muutama parannus
 tehtiin kokeellista koodia
 vähän parantelua
+lisättiin toiminnallisuutta
